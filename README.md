@@ -1,6 +1,6 @@
 # angioFFR for macOS
 
-Current build: angioFFR 0.55.5, which fixes Google sign-in in the desktop app and retains the desktop save/export fix for JSON studies, PDF reports, and CSV files.
+Current build: angioFFR 0.55.6, which fixes cloud backup and recovery in the desktop app by routing Cloud Storage through the local desktop server. Google sign-in and the desktop save/export fix from 0.55.4–0.55.5 are retained.
 
 Use the `.dmg` matching the Mac architecture: `x64` for Intel and `arm64` for Apple Silicon. Install by opening the disk image and dragging angioFFR to Applications.
 
